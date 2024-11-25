@@ -1,0 +1,105 @@
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-color: #1b1b32;
+  color: #f5f6f7;
+  font-family: Tahoma;
+  font-size: 16px;
+}
+
+h1, p {
+  margin: 1em auto;
+  text-align: center;
+}
+
+form {
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+}
+
+fieldset {
+  border: none;
+  padding: 2rem 0;
+  border-bottom: 3px solid #3b3b4f;
+}
+
+fieldset:last-of-type {
+  border-bottom: none;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+input,
+textarea,
+select {
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+}
+
+input, textarea {
+  background-color: #0a0a23;
+  border: 1px solid #0a0a23;
+  color: #ffffff;
+}
+
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 60%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: #3b3b4f;
+  border-color: white;
+  min-width: 300px;
+}
+
+input[type="file"] {
+  padding: 1px 2px;
+}
+
+.inline{
+  display: inline; 
+}
+
+a {
+  color: #dfdfe2;
+}
+
+
+Formulario de Registro - Página Web
+Este proyecto es una página web diseñada para permitir a los usuarios registrarse proporcionando su información personal. El formulario incluye campos para nombre, correo electrónico, tipo de cuenta, foto de perfil y más. Está pensado para ser simple y fácil de usar.
+
+Características 🛠️
+Este proyecto incluye las siguientes funcionalidades:
+
+Campos de texto para ingresar el nombre, apellido y correo electrónico.
+Contraseña segura con requisitos específicos de longitud.
+Selección de tipo de cuenta (personal o de negocio).
+Subida de foto de perfil.
+Selección de edad con restricción de 13 a 120 años.
+Desplegable para seleccionar cómo se enteró el usuario del sitio.
+Caja de texto para escribir una breve biografía.
+Términos y condiciones con checkbox de aceptación.
+Para desarrollar esta página, se han utilizado los siguientes lenguajes de programación:
+
+HTML.
+CSS.
+Instalación 🚀
+Clona este repositorio en tu máquina local:
+bash
+Copiar código
+git clone https://github.com/tuusuario/formulario-registro.git
