@@ -4,13 +4,16 @@ Este proyecto es una página web sencilla diseñada para consistir en pedir la i
 ## Características 🛠️   
 En este proyecto incluye los siguientes puntos.
 - **SOLICITUD DE DATOS.**
-  + ***Nombre***
-  + *Apellidos*
-  + *Correo*
-  + *Contraseña (**segura**)*
-- **PRECIOS.**
-- **LOGO.**
-- **VISTA PREVIA**
+  + **Nombre**
+  + **Apellidos**
+  + **Correo**
+  + **Contraseña** (**segura**)
+- **TIPO DE CUENTA.**
+  + **Personal**
+  + **Trabajo**
+- **FOTO PERFIL.**
+- **EDAD.**
+- **ETC.**
 
 Y para este proyecto he empleado dos lenguajes de programación para realizarlo. 
 - **HTML.**
@@ -20,4 +23,4 @@ Y para este proyecto he empleado dos lenguajes de programación para realizarlo.
 ## Instalación 🚀  
 1. Clona este repositorio en tu máquina local:  
    ```bash
-   git clone https://github.com/Maximo-sudo/menuCafe-CODE.git
+   git clone https://github.com/Maximo-sudo/paginaRegistro-CODE.git
