@@ -31,3 +31,13 @@ Y para este proyecto he empleado dos lenguajes de programación para realizarlo.
 1. Clona este repositorio en tu máquina local:  
    ```bash
    git clone https://github.com/Maximo-sudo/paginaRegistro-CODE.git
+
+## **Estructura del Proyecto** 📂 
+
+```plaintext
+📁 Camper-Cafe
+├── index.html        # Archivo principal de la página web
+├── style.css         # Estilos para el diseño del menú
+├── README.md         # Documentación del proyecto
+└── vistaPrevia.png   # Vista Previa
+
