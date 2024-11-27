@@ -26,6 +26,9 @@ Y para este proyecto he empleado dos lenguajes de programación para realizarlo.
 - **HTML:** Para estructurar los campos del formulario y los datos.
 - **CSS:** Para estilizar el formulario y hacerlo visualmente atractivo.
 
+## Vista Previa 🌐
+  ![vistaPrevia (1)](https://github.com/user-attachments/assets/1ee929f5-33aa-4033-8e1a-46d2c4ea1a45)
+
 
 ## Instalación 🚀  
 1. Clona este repositorio en tu máquina local:  
